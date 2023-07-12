@@ -1,0 +1,4 @@
+mongodb:
+
+login: dkruhlikov
+password: DocXvH7uH1Z66MzH
